@@ -598,7 +598,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 /* Sans-Serif Typefaces */
 .helvetica { font-family: 'helvetica neue', helvetica, sans-serif; }
 .avenir { font-family: 'avenir next', avenir, sans-serif; }
-.courier { font-family: Courier,monospace; }
+.courier { font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; }
 /* Serif Typefaces */
 .georgia { font-family: georgia, serif; }
 .times { font-family: times, serif; }
