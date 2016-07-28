@@ -8,6 +8,7 @@
 
 */
 
+.tracked-lil   { letter-spacing: .04em;}
 .tracked       { letter-spacing:  .16em; }
 .tracked-tight { letter-spacing: -.05em; }
 .tracked-mega  { letter-spacing:  .32em; }
