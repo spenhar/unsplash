@@ -598,7 +598,6 @@ code, .code { font-family: Consolas, monaco, monospace; }
 /* Sans-Serif Typefaces */
 .helvetica { font-family: 'helvetica neue', helvetica, sans-serif; }
 .avenir { font-family: 'avenir next', avenir, sans-serif; }
-.courier { font-family: Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; }
 /* Serif Typefaces */
 .georgia { font-family: georgia, serif; }
 .times { font-family: times, serif; }
@@ -659,7 +658,6 @@ code, .code { font-family: Consolas, monaco, monospace; }
    LETTER SPACING
 
 */
-.tracked-lil { letter-spacing: .04em; }
 .tracked { letter-spacing: .16em; }
 .tracked-tight { letter-spacing: -.05em; }
 .tracked-mega { letter-spacing: .32em; }
@@ -915,7 +913,6 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .bg-pink { background-color: #f49cc8; }
 .bg-dark-green { background-color: #006C71; }
 .bg-green { background-color: #41D69F; }
-.bg-green-unsplash { background-color: #71b552; }
 .bg-navy { background-color: #001b44; }
 .bg-dark-blue { background-color: #00449e; }
 .bg-blue { background-color: #357edd; }
@@ -1168,7 +1165,6 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .f4 { font-size: 1.25rem; }
 .f5 { font-size: 1rem; }
 .f6 { font-size: .875rem; }
-.f-11 { font-size: 11px; }
 /*
 
    TYPOGRAPHY
@@ -1282,6 +1278,10 @@ code, .code { font-family: Consolas, monaco, monospace; }
   Add custom styles here.
 
 */
+.courier { font-family: Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; }
+.f-11 { font-size: 11px; }
+.bg-green-unsplash { background-color: #71b552; }
+.tracked-lil { letter-spacing: .04em; }
 /* Import media queries at end as this will allow you to customize them
  * and override what is currently declared in each module.
  */
