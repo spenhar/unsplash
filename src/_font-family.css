@@ -52,6 +52,10 @@ code, .code {
                sans-serif;
 }
 
+.courier {
+  font-family: Courier, "Lucida Sans Typewriter",
+              "Lucida Typewriter", monospace;
+}
 
 /* Serif Typefaces */
 
@@ -84,4 +88,3 @@ code, .code {
   font-family: garamond,
                serif;
 }
-
