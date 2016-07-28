@@ -49,6 +49,7 @@
 @import './_vertical-align';
 @import './_hovers';
 @import './_styles';
+@import './_unsplash';
 
 /* Import media queries at end as this will allow you to customize them
  * and override what is currently declared in each module.
